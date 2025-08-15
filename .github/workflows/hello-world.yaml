@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Print Hello World
-        run: echo "Hello, World from self-hosted runner!"
+        run: echo "Hello, World from self-hosted runner Yahoo!"
